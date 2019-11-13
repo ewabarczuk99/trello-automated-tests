@@ -1,0 +1,20 @@
+C:\Users\Darek\source\repos\trello automated tests\trello automated tests\bin\Debug\trello automated tests.dll
+C:\Users\Darek\source\repos\trello automated tests\trello automated tests\bin\Debug\trello automated tests.pdb
+C:\Users\Darek\source\repos\trello automated tests\trello automated tests\bin\Debug\nunit.framework.dll
+C:\Users\Darek\source\repos\trello automated tests\trello automated tests\bin\Debug\WebDriver.dll
+C:\Users\Darek\source\repos\trello automated tests\trello automated tests\bin\Debug\WebDriver.Support.dll
+C:\Users\Darek\source\repos\trello automated tests\trello automated tests\bin\Debug\nunit.framework.pdb
+C:\Users\Darek\source\repos\trello automated tests\trello automated tests\bin\Debug\nunit.framework.xml
+C:\Users\Darek\source\repos\trello automated tests\trello automated tests\bin\Debug\WebDriver.xml
+C:\Users\Darek\source\repos\trello automated tests\trello automated tests\bin\Debug\WebDriver.Support.xml
+C:\Users\Darek\source\repos\trello automated tests\trello automated tests\obj\Debug\trello automated tests.csprojAssemblyReference.cache
+C:\Users\Darek\source\repos\trello automated tests\trello automated tests\obj\Debug\trello automated tests.csproj.CopyComplete
+C:\Users\Darek\source\repos\trello automated tests\trello automated tests\obj\Debug\trello automated tests.dll
+C:\Users\Darek\source\repos\trello automated tests\trello automated tests\obj\Debug\trello automated tests.pdb
+C:\Users\Darek\source\repos\trello automated tests\trello automated tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Darek\source\repos\trello automated tests\trello automated tests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Darek\source\repos\trello automated tests\trello automated tests\bin\Debug\nunit.engine.dll
+C:\Users\Darek\source\repos\trello automated tests\trello automated tests\bin\Debug\nunit.engine.api.dll
+C:\Users\Darek\source\repos\trello automated tests\trello automated tests\bin\Debug\NugeTestPackage.dll
+C:\Users\Darek\source\repos\trello automated tests\trello automated tests\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Darek\source\repos\trello automated tests\trello automated tests\bin\Debug\System.Diagnostics.DiagnosticSource.xml
